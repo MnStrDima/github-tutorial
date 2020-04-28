@@ -59,7 +59,16 @@ body {
   color: #9fa1a6;
 }
 
-.contacts-link-type {
+.contacts-link-type1 {
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 24px;
+  color: #ffffff;
+  margin-right: 10px;
+  text-decoration: none;
+}
+
+.contacts-link-type2 {
   font-size: 14px;
   font-weight: 700;
   line-height: 24px;
